@@ -6,6 +6,7 @@ docs/equations/*.synctex.gz
 .ipynb_checkpoints
 .DS_Store
 code/datasets/movie/aclImdb_v1.tar.gz
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
